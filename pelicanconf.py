@@ -49,26 +49,15 @@ MENU = (
 
 COMPETENCE1 = (
 (('PHP (en travaillant sur des projets professionels en Symfony et Thelia)'),('80%')),
-
-(('Python'), ('70%')),
-
-(('Java et JavaFX'),('70%')),
-
 (('WEB (HTML, CSS, Bootstrap)'),('70%')),
-
-)
-
-COMPETENCE1POURCENT = (
-('80%'),
-('70%'),
-('70%'),
-('70%')
+(('Java et JavaFX'),('70%')),
+(('Python (avec Tkinter)'), ('60%')),
 )
 
 COMPETENCE2 = (
-('Autonome'),
-('Travail en équipe'),
-('Curieux '),
+(('L\'Autonomie'),('J\'ai travaillé en autonomie sur le projets SAP où on me demandé d\'integrer des nouvelles technologies dans mon projets comme SASS')),
+(('Le Travail en équipe'),(' Dans le cadre de ma formation en BTS, j\'ai été amené à gerer une équipe pour le developpement d\'une application web sous symfony et une autre en JavaFX')),
+(('La Curiosité'),('je m\'interresse aux nouvelles technologies comme aux I.A. (l\'image de profil a été gener par Midjourney)')),
 )
 
 COMPETENCE3 = (

@@ -34,7 +34,7 @@ body
 
 #blocC1,#blocC2,#blocC3
 {
-	width: 700px;
+	width: 800px;
 	background-color: #FFFFFF;
 	border-radius: 50px;
 	padding: 4%;	
@@ -49,37 +49,41 @@ body
 
 .contriItem
 {
-	width: 700px;
+	width: 800px;
 	text-align: justify;
 	padding: 3%;
-	background-color: #04a5a7;
+	background-color: #1278ec;
 	border-radius: 50px;
 	margin-bottom: 2%;
 
 }
+
 .contriItem img
 {
-	width: 700px;
+
+	object-position: center;
+	width: 80%;
+  	height: 80%;
+  	margin-left: 10%;
 }
+
 
 .contriItem h3, .contriItem h2
 {
 	text-align: center;
 }
 
-#accueil,#competences, #contact
+#accueil, #cursus, #competences, #contact
 {
-	background: #04a5a7;
+	background: #1278ec;
 	min-height: 100px;
-	width: 90%;
 	padding: 5%;
 }
 
-#apropos, #contributions
+#apropos, #cursus, #contributions
 {
 	background: #FFFFFF;
 	min-height: 300px;
-	width: 90%;
 	padding: 5%;
 }
 
@@ -94,16 +98,18 @@ body
 
 #bouton
 {
-	height: 50px;
+	height: 80px;
 	width: 100px;
 	background: #FFFFFF;
-	border: 5px solid #04a5a7;
+	border: 5px solid #1278ec;
 	border-radius: 50px 0 0 50px;
 	position: fixed;
 	bottom: 20%;
 	right: 0%;
-	text-align: center;
+	text-align: right;
 	font-size: 20px;
+	padding-right: 10px;
+	padding-top: 5px;
 }
 
 nav a
@@ -141,6 +147,7 @@ p
 
 h2
 {
+	font-weight: bold;
 	font-size: 40px;
 }
 
@@ -161,6 +168,27 @@ section h2
 	margin-bottom: 3%
 }
 
+.logo
+{
+	object-position: center;
+	width: 80px;
+  	height: 80px;
+  	margin-right: 3%;
+}
+
+.icon
+{
+	width: 40px;
+  	height: 40px;
+}
+
+img[alt="client"], img[alt="entreprise"], img[alt="techno"]
+{
+	object-position: center;
+	width: 20%;
+  	height: 20%;
+  	margin-left: 40%;
+}
 
 nav ol
 {

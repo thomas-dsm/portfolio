@@ -24,4 +24,4 @@ DELETE_OUTPUT_DIRECTORY = True
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 
-SITEURL = '/presles-2022/pelican_dasilvamendonca'
+SITEURL = '/portfolio'

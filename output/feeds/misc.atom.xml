@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>portfolio_DaSilvaMendonca - misc</title><link href="/presles-2022/pelican_dasilvamendonca/" rel="alternate"></link><link href="/presles-2022/pelican_dasilvamendonca/feeds/misc.atom.xml" rel="self"></link><id>/presles-2022/pelican_dasilvamendonca/</id><updated>2020-12-09T15:00:00+01:00</updated><entry><title>pyFormation</title><link href="/presles-2022/pelican_dasilvamendonca/pyFormation.html" rel="alternate"></link><published>2020-12-02T15:00:00+01:00</published><updated>2020-12-09T15:00:00+01:00</updated><author><name>DA SILVA MENDONCA Thomas</name></author><id>tag:None,2020-12-02:/presles-2022/pelican_dasilvamendonca/pyFormation.html</id><summary type="html">&lt;p&gt;présentation de l'application pyFormation&lt;/p&gt;</summary><content type="html">&lt;h2&gt;PyFormation&lt;/h2&gt;
+&lt;p&gt;Cette situation professionnelle prend place dans le contexte Formation SNCF.&lt;/p&gt;
+&lt;p&gt;L’organisation concernée par cette étude, la SNCF a une mission de service public de transport que chacun a, un jour ou l’autre, utilisé et apprécié. Au-delà du transport des passagers et des marchandises, la SNCF gère en interne plus de 450 métiers qui concourent à sa bonne marche. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="menupyFormation" src="./theme/images/pyFormationmenu.png"&gt;&lt;/p&gt;
+&lt;p&gt;L'application pyFormation dispose d'une documentation technique qui a été générée avec Sphinx, elle est accessible en ligne (via les pages de framagit et l'intégration continue).&lt;/p&gt;
+&lt;p&gt;L'objectif de l'activité est d'à partir de l’observation des programmes de l’application en ligne de commandes, pyFormation :&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Observer les insuffisances dans le contrôle de validité des informations saisies
+&lt;/em&gt;Proposer des solutions pour garantir la concordance des informations saisies via le gestionnaire de tickets de la forge logicielle
+*Compléter ou créer une procédure de façon à prendre en charge ces nouveaux besoins, puis intégrer la modification à la gestion de version du projet&lt;/p&gt;
+&lt;h3&gt;écran activité&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="écran activité" src="./theme/images/pyFormationliste.png"&gt;&lt;/p&gt;
+&lt;h3&gt;écran action de formation&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="écran action de formation" src="./theme/images/pyFormationliste2.png"&gt;&lt;/p&gt;
+&lt;h3&gt;écran sessions&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="ecran sessions" src="./theme/images/pyFormation.png"&gt;&lt;/p&gt;
+&lt;p&gt;Cette activité s’inscrit dans les ateliers de professionnalisation (AP) du second semestre en spécialité SLAM (Solutions Logicielles et Applications Métiers).&lt;/p&gt;
+&lt;p&gt;Cette situation professionnelle nous place en situation d’acteurs au sein d’un processus de support. Ils doivent mettre en œuvre les notions acquises au premier semestre, afin d’identifier des problèmes (incidents) et de proposer des pistes d’amélioration du service rendu. &lt;/p&gt;</content></entry></feed>
